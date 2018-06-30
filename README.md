@@ -9,7 +9,7 @@
 
 ##Installtion
 Install RIP with Composer: 
-````composer require racler-productions/rip````
+````composer require RaclerProductions/rip````
 
 ##Set up
 First of all you need to Initialize the Rip class ``$rip = new Rip();``
